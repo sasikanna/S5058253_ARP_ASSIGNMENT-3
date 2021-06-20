@@ -1,6 +1,6 @@
 # S5058253_ARP_ASSIGNMENT-3
 
-Dining Philosophers
+#Dining Philosophers
 ===================
 
 Simple iteration of the dining philosophers problem, using only IPC via named pipe to schedule the access
